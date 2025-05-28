@@ -1,0 +1,8 @@
+C:\Users\Guillermo\Documents\_isomed\isomedGUMO\isomedGUMO\isomedGUMO\bin\isomedGUMO.dll.config
+C:\Users\Guillermo\Documents\_isomed\isomedGUMO\isomedGUMO\isomedGUMO\bin\isomedGUMO.dll
+C:\Users\Guillermo\Documents\_isomed\isomedGUMO\isomedGUMO\isomedGUMO\bin\isomedGUMO.pdb
+C:\Users\Guillermo\Documents\_isomed\isomedGUMO\isomedGUMO\isomedGUMO\bin\System.Memory.dll
+C:\Users\Guillermo\Documents\_isomed\isomedGUMO\isomedGUMO\isomedGUMO\bin\System.Numerics.Vectors.dll
+C:\Users\Guillermo\Documents\_isomed\isomedGUMO\isomedGUMO\isomedGUMO\obj\Release\isomedGUMO.csprojResolveAssemblyReference.cache
+C:\Users\Guillermo\Documents\_isomed\isomedGUMO\isomedGUMO\isomedGUMO\obj\Release\isomedGUMO.dll
+C:\Users\Guillermo\Documents\_isomed\isomedGUMO\isomedGUMO\isomedGUMO\obj\Release\isomedGUMO.pdb

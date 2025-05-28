@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Guillermo\Documents\_isomed\publicar</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/isomedGUMO.dll">
+      <publishTime>05/27/2025 18:10:41</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>02/13/2025 05:22:04</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>02/13/2025 05:22:04</publishTime>
+    </File>
+    <File Include="contacto.aspx">
+      <publishTime>05/25/2025 21:05:53</publishTime>
+    </File>
+    <File Include="estilos.css">
+      <publishTime>05/27/2025 16:35:23</publishTime>
+    </File>
+    <File Include="formUsuarios.aspx">
+      <publishTime>05/27/2025 18:10:39</publishTime>
+    </File>
+    <File Include="formUsuarios_agregar_editar.aspx">
+      <publishTime>05/27/2025 18:10:39</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>05/25/2025 21:00:34</publishTime>
+    </File>
+    <File Include="imagenes/button cancel 25 x 25 px 01.png">
+      <publishTime>05/25/2025 21:11:35</publishTime>
+    </File>
+    <File Include="imagenes/button save 25 x 25 px 01.png">
+      <publishTime>05/25/2025 21:11:35</publishTime>
+    </File>
+    <File Include="imagenes/logo formal.png">
+      <publishTime>05/25/2025 21:11:35</publishTime>
+    </File>
+    <File Include="imagenes/logo transparente.png">
+      <publishTime>05/25/2025 21:11:35</publishTime>
+    </File>
+    <File Include="inicio.aspx">
+      <publishTime>05/25/2025 22:09:21</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>05/27/2025 18:10:39</publishTime>
+    </File>
+    <File Include="pagina_maestra.Master">
+      <publishTime>05/27/2025 18:02:25</publishTime>
+    </File>
+    <File Include="panelAdministrador.aspx">
+      <publishTime>05/26/2025 14:49:31</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/27/2025 18:10:42</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
